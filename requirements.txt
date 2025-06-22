@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+pandas
+sqlite3  # (built-in in Python, no need to install)
